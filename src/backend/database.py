@@ -173,7 +173,7 @@ initial_activities = {
             "end_time": "21:00"
         },
         "max_participants": 15,
-        "participants": []
+        "participants": ["alex@mergington.edu", "maya@mergington.edu"]
     }
 }
 
